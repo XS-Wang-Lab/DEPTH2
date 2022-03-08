@@ -46,7 +46,7 @@ A user can install the released version of DEPTH2 with:
 ```
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
-devtools::install_github("WangX-Lab/DEPTH2/DEPTH2")
+devtools::install_github("XS-Wang-Lab/DEPTH2/DEPTH2")
 ```
 
 ## Example
