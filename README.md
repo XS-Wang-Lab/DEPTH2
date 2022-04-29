@@ -59,6 +59,6 @@ input_data <- read.table(path, stringsAsFactors = FALSE, header = TRUE, check.na
 DEPTH2(input_data)
 ```
 
-## Contact
+## Citation
 
-E-mail any questions to Dandan Song (dandan.song@stu.cpu.edu.cn) and Xiaosheng Wang (xiaosheng.wang@cpu.edu.cn)
+Song D, Wang X. DEPTH2: an mRNA-based algorithm to evaluate intratumor heterogeneity without reference to normal controls. J Transl Med. 2022 Apr 1;20(1):150. doi: 10.1186/s12967-022-03355-1. PMID: 35365157; PMCID: PMC8974098.
